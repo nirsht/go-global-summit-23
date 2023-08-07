@@ -5,7 +5,6 @@ type Gopher struct {
 }
 
 func main() {
-
 	oldGophers := []Gopher{
 		{"Phil"},
 		{"Nir"},
